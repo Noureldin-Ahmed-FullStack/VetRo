@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.00420243.css",
-    "main.js": "./static/js/main.ca7641af.js",
+    "main.css": "./static/css/main.42d07a2f.css",
+    "main.js": "./static/js/main.776d8407.js",
     "static/js/787.a12f7dc5.chunk.js": "./static/js/787.a12f7dc5.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "./static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -14,12 +14,12 @@
     "static/media/port2.png": "./static/media/port2.6554473016d32b343f02.png",
     "static/media/avatars.svg": "./static/media/avatars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
     "index.html": "./index.html",
-    "main.00420243.css.map": "./static/css/main.00420243.css.map",
-    "main.ca7641af.js.map": "./static/js/main.ca7641af.js.map",
+    "main.42d07a2f.css.map": "./static/css/main.42d07a2f.css.map",
+    "main.776d8407.js.map": "./static/js/main.776d8407.js.map",
     "787.a12f7dc5.chunk.js.map": "./static/js/787.a12f7dc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00420243.css",
-    "static/js/main.ca7641af.js"
+    "static/css/main.42d07a2f.css",
+    "static/js/main.776d8407.js"
   ]
 }
